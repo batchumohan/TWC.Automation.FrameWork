@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="twc.Automation.SmokeTestCases.somkeTestCases">
+        <methods>
+          <include name="Verify_TestMode_BBCall"/>
+          <include name="Before_Test"/>
+        </methods>
+      </class> <!-- twc.Automation.SmokeTestCases.somkeTestCases -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
